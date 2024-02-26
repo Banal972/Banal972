@@ -23,7 +23,3 @@
 
 ## ✏️ Blog
 [![image](https://github.com/Banal972/Borken972/assets/96280450/46de4b94-d655-47b5-a442-2726a4c268fc)](https://banal7.tistory.com/)
-
-
-## 📃 WebSite
-[![image](https://github.com/Banal972/Borken972/assets/96280450/f7836c05-5110-469b-8d79-9cff66f5c5c0)](https://banal972.github.io/)
