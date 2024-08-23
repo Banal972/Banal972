@@ -4,5 +4,5 @@
 
 ## 🤗 About
 - Kim Ji Yu
-- [email](spbabo97@naver.com)
-- [blog](https://banal972.github.io/)
+- [Email](spbabo97@naver.com)
+- [Blog](https://banal972.github.io/)
